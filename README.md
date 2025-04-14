@@ -17,7 +17,8 @@ Stream.of("a","b","c","d");    ===>  [ A, B, C, D ]  Transform data from lower c
 
                                                                                         
 
-flatMap() :
+flatMap() :[readme.md](https://github.com/user-attachments/files/19736546/readme.md)
+
 =========
 
 flatMap() used for transformation & falttering.
@@ -32,3 +33,7 @@ Data Transformation in flatMap :
 ===============================
 
 [[1,2],[3,4],[5,6],[7,8]]    ===>  [1,2,3,4,5,6,7,8]  Convert stream of stream into single stream.
+
+
+
+[Uploading readme.md…]()
