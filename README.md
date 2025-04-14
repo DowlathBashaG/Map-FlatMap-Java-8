@@ -17,8 +17,7 @@ Stream.of("a","b","c","d");    ===>  [ A, B, C, D ]  Transform data from lower c
 
                                                                                         
 
-flatMap() :[readme.md](https://github.com/user-attachments/files/19736546/readme.md)
-
+flatMap() :
 =========
 
 flatMap() used for transformation & falttering.
