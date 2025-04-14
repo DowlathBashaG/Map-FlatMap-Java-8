@@ -7,13 +7,13 @@ map() method used for transformation.
 
 map() takes Stream<T>  as input and return Stream<R>
 
-Its mapper function produces single value for each input value. Hence it is also called One-To-One mapping.
-                                                                                        ===================
+Its mapper function produces a single value for each input value. Hence it is also called One-To-One mapping.
+                                                                                      
 
 Data Transformation in Map :
 ===========================
 
-Stream.of("a","b","c","d");    ===>  [ A, B, C, D ]  Transform data from lower case to upper case .
+Stream.of("a","b","c","d");    ===>  [ A, B, C, D ]  Transform data from lower case to upper case.
 
                                                                                         
 
@@ -26,8 +26,8 @@ flatMap() -> map() + flattering
 
 flatMap() takes Stream<Stream<T>> as input and return Stream<R>
 
-Its mapper function produces multiple value for each input value. Hence it is also called One-To-Many mapping.
-                                                                                          ===================
+Its mapper function produces multiple values for each input value. Hence it is also called One-To-Many mapping.
+                                                                                          
 Data Transformation in flatMap :
 ===============================
 
