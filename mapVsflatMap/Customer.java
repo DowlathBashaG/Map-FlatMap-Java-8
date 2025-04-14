@@ -1,4 +1,4 @@
-package io.dowlath;
+package dowlath.io;
 
 import java.util.List;
 
