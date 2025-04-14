@@ -1,4 +1,4 @@
-package com.javatechie;
+package io.dowlath;
 
 import java.util.List;
 
